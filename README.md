@@ -6,6 +6,7 @@
 
 ```
 -flags
+
  * -f, --fasta. Input in fasta format of the proteins.
  * -o, --output. Output folder name.
  * -m, --model. High-quality (Accurate) model or high-throughput (Fast) model. Default: Fast.
