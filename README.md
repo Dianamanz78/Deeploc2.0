@@ -7,10 +7,10 @@
 ```
 -flags
 
- * -f, --fasta. Input in fasta format of the proteins.
- * -o, --output. Output folder name.
- * -m, --model. High-quality (Accurate) model or high-throughput (Fast) model. Default: Fast.
- * -p, --plot. Plot and save attention values for each individual protein. 
+  -f, --fasta. Input in fasta format of the proteins.
+  -o, --output. Output folder name.
+  -m, --model. High-quality (Accurate) model or high-throughput (Fast) model. Default: Fast.
+  -p, --plot. Plot and save attention values for each individual protein. 
 ```
 
 Using the .sif file is reliant on the container platform singularity. To see if singularity is available in the cluster, enter the following in the command line: 
