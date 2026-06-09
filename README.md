@@ -5,7 +5,7 @@
 # Usage
 
 ```
--flags
+-arguments
 
   -f, --fasta. Input in fasta format of the proteins.
   -o, --output. Output folder name.
