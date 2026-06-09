@@ -16,7 +16,7 @@ module lode singularity
 ```
 
 <br>
-Interactive Mode:
+**Interactive Mode**
 
 Run the srun command with additional flags such as the following:
 ```
