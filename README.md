@@ -18,6 +18,7 @@ singularity exec "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deep
 
 
 Batch Mode:
+
 -include the line in the script file
 ```
 singularity exec --bind $PWD "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deeploc2 -f your_file.csv -o output_dir
