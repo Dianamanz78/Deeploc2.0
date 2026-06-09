@@ -1,6 +1,6 @@
 # Deeploc2.0
 
-*The deeploc2_final.sif file is located in the shared folder in the roth lab directory.
+The Deeploc2.0 container is accessible in the cluster. The deeploc2_final.sif file is located in the shared folder in the roth lab directory.
 
 # Usage
 
