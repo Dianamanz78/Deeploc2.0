@@ -9,6 +9,8 @@ Using the .sif file is reliant on the container platform singularity. To see if 
 ```
 module avail
 ```
+
+If singularity is an option, enable access by entering:
 ```
 module lode singularity
 ```
