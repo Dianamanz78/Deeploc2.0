@@ -22,7 +22,7 @@ Run the srun command with additional flags such as the following:
 ```
 srun --pty -p dept_cpu /bin/bash
 ```
-
+Then enter the following line into the command prompt:
 ```
 singularity exec "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deeploc2 -f input.fasta -o output_directory
 ```
