@@ -16,7 +16,6 @@ module lode singularity
 ```
 
 <br>
-**text**
 
 **Interactive Mode**
 
@@ -30,7 +29,8 @@ singularity exec "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deep
 ```
 
 <br>
-Batch Mode:
+
+**Batch Mode**
 
 -include the line in the script file
 ```
