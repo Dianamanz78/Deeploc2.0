@@ -14,13 +14,13 @@ The Deeploc2.0 container is accessible in the cluster. The deeploc2_final.sif fi
 ```
 <br>
 
-Using the .sif file is reliant on the container platform singularity. To see if singularity is available in the cluster, enter the following in the command line: 
+Using the .sif file is reliant on the container platform, singularity. To see if singularity is available in the cluster, enter the following in the command line: 
 
 ```
 module avail
 ```
 
-If singularity is an option, enable access by entering:
+If singularity is listed, enable access by entering:
 ```
 module lode singularity
 ```
