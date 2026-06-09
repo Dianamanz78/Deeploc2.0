@@ -8,3 +8,8 @@ module avail
 ```
 module lode singularity
 ```
+
+Interactive Mode:
+
+Batch Mode:
+
