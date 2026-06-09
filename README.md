@@ -3,5 +3,8 @@
 # Usage
 
 ```
-fndkl
+module avail
+```
+```
+module lode singularity
 ```
