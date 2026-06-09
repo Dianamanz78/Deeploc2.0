@@ -36,6 +36,7 @@ singularity exec "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deep
 ```
 singularity exec --bind $PWD "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deeploc2 -f your_file.csv -o output_dir
 ```
+Then submit the script to SLURM using sbatch:
 ```
 sbatch script.sh
 ```
