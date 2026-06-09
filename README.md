@@ -18,7 +18,10 @@ module lode singularity
 <br>
 Interactive Mode:
 
--use srun first
+Run the srun command with aadditional flags such as the following:
+```
+srun --pty -p dept_cpu /bin/bash
+```
 ```
 singularity exec "/net/dali/home/roth/shared/deeploc2.0/deeploc2_final.sif" deeploc2 -f input.fasta -o output_directory
 ```
