@@ -4,6 +4,8 @@
 
 *The deeploc2_final.sif file is located in the shared folder in the roth lab directory.
 
+Using the .sif file is reliant on the container platform singularity. To see if singularity is available in the cluster, enter the following in the command line: 
+
 ```
 module avail
 ```
