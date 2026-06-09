@@ -15,7 +15,7 @@ If singularity is an option, enable access by entering:
 module lode singularity
 ```
 
-
+<br>
 Interactive Mode:
 
 -use srun first
