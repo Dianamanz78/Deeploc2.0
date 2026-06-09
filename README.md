@@ -2,6 +2,8 @@
 
 # Usage
 
+*The deeploc2_final.sif file is located in the shared folder in the roth lab directory.
+
 ```
 module avail
 ```
